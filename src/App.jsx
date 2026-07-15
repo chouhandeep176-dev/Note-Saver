@@ -8,6 +8,10 @@ import Home from "./components/Home";
 import Notes from "./components/Notes";
 import ViewNote from "./components/ViewNote";
 
+import "./index.css";
+import "./globle.css";
+import "./App.css";
+
 const router = createBrowserRouter([
   // home page -->
   {
